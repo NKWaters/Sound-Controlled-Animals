@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+#Start {
+    width: 500px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+    font-size: 22px;
+}
+
+#Start:hover {
+    background-color: yellow;
+    color: black;
+    width: 1000px;
+}
+
+#note {
+    font-size: 22px;
+    font-family: 'roboto';
+    font-weight: bold;
+    font-style: italic;
+}
+
+h1 {
+    font-family: algerian;
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Yeon Sung';
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'roboto';
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+}
